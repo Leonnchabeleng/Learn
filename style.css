@@ -1,0 +1,32 @@
+
+body {
+    font-size: 15pt;
+    background: gold;
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+}
+p {
+  color: orange; 
+}
+#the {
+  font-size: 5;
+} 
+.uplink {
+  color: gray;
+}
+.down {
+  border-radius: 25%;
+  width: 50%;
+}
+.gh {
+  display: block;
+  color: red;
+  padding: 12px;
+  margin: 13px;
+  background: black;
+  border-radius: 25%;
+  box-shadow: 10px 10px lightgray;
+}
+.a {
+  text-underline-position: none;
+}
